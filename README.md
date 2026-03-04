@@ -42,7 +42,7 @@ Explorador incansable de tecnología, desarrollador full-stack y modder de **Ass
 Todo mi trabajo centralizado, scripts, mods y proyectos estarán disponibles aquí:
 [**x0void.com**](https://x0void.com)
 
-### 📫 Conectemos
+### 📫 Conectarme
 
 - **Email:** [jonatanfp@x0void.com](mailto:jonatanfp@x0void.com)
 - **Instagram:** [@jonatanfp\_](https://instagram.com/jonatanfp_)
