@@ -16,20 +16,11 @@
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0-jonatanfp&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0-jonatanfp&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
 ## About me
 
-Technology explorer, full-stack developer and Assetto Corsa modder by passion. From self-hosting servers on Ubuntu to building modern web applications and creating 3D content — I work across the full stack.
+Technology explorer, full-stack developer and Assetto Corsa modder by passion. From self-hosting on Ubuntu to building modern web apps and creating 3D content — I work across the full stack.
 
-## What I work with
+## Tech stack
 
 <p align="center">
   <b>Infrastructure & Systems</b><br>
@@ -52,7 +43,6 @@ Technology explorer, full-stack developer and Assetto Corsa modder by passion. F
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
@@ -62,59 +52,6 @@ Technology explorer, full-stack developer and Assetto Corsa modder by passion. F
   <img src="https://img.shields.io/badge/3ds_Max-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
-
----
-
-## Featured projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/mail-relay">
-        <b>mail-relay</b>
-      </a>
-      <br/>
-      <sub>Multi-client SMTP relay for web contact forms</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/OurSharedGallery">
-        <b>OurSharedGallery</b>
-      </a>
-      <br/>
-      <sub>AI-powered Instagram community automator</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/f2b_private_bot">
-        <b>F2B Private Bot</b>
-      </a>
-      <br/>
-      <sub>Telegram bot for Fail2ban monitoring</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/tessera">
-        <b>Tessera</b>
-      </a>
-      <br/>
-      <sub>Multi-agent virtual office simulation</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/gmcshocks.eu">
-        <b>GMC Shocks</b>
-      </a>
-      <br/>
-      <sub>Corporate website — offroad shock absorbers</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/bulletproof-shots">
-        <b>Bulletproof Shots</b>
-      </a>
-      <br/>
-      <sub>FPV drone photography portfolio</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 

@@ -16,20 +16,11 @@
 
 ---
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x0-jonatanfp&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0-jonatanfp&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
----
-
 ## Sobre mí
 
 Explorador incansable de tecnología, desarrollador full-stack y modder de Assetto Corsa por pasión. Desde gestionar servidores Ubuntu hasta crear aplicaciones web modernas y contenido 3D — trabajo en todo el espectro.
 
-## Tecnologías
+## Stack tecnológico
 
 <p align="center">
   <b>Infraestructura y Sistemas</b><br>
@@ -52,7 +43,6 @@ Explorador incansable de tecnología, desarrollador full-stack y modder de Asset
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
@@ -62,59 +52,6 @@ Explorador incansable de tecnología, desarrollador full-stack y modder de Asset
   <img src="https://img.shields.io/badge/3ds_Max-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
-
----
-
-## Proyectos destacados
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/mail-relay">
-        <b>mail-relay</b>
-      </a>
-      <br/>
-      <sub>Relay SMTP multi-cliente para formularios web</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/OurSharedGallery">
-        <b>OurSharedGallery</b>
-      </a>
-      <br/>
-      <sub>Automatizador de Instagram con IA</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/f2b_private_bot">
-        <b>F2B Private Bot</b>
-      </a>
-      <br/>
-      <sub>Bot de Telegram para monitorizar Fail2ban</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/tessera">
-        <b>Tessera</b>
-      </a>
-      <br/>
-      <sub>Simulación de oficina virtual multiagente</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/gmcshocks.eu">
-        <b>GMC Shocks</b>
-      </a>
-      <br/>
-      <sub>Web corporativa — amortiguadores offroad</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/x0-jonatanfp/bulletproof-shots">
-        <b>Bulletproof Shots</b>
-      </a>
-      <br/>
-      <sub>Portfolio de fotografía con drones FPV</sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
