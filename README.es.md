@@ -6,17 +6,17 @@
 [![Website](https://img.shields.io/badge/web-x0void.com-8B5CF6?style=flat-square&logo=vercel)](https://x0void.com)
 [![Email](https://img.shields.io/badge/email-jonatanfp@x0void.com-EA4335?style=flat-square&logo=gmail)](mailto:jonatanfp@x0void.com)
 
-**Full-stack developer · Sysadmin · Modder**
+**Desarrollador full-stack · Sysadmin · Modder**
 
 </div>
 
 ---
 
-🌐 **Also available in:** [Spanish](README.es.md)
+🌐 **También disponible en:** [Inglés](README.md)
 
 ---
 
-## GitHub stats
+## Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=x0-jonatanfp&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
@@ -25,14 +25,14 @@
 
 ---
 
-## About me
+## Sobre mí
 
-Technology explorer, full-stack developer and Assetto Corsa modder by passion. From self-hosting servers on Ubuntu to building modern web applications and creating 3D content — I work across the full stack.
+Explorador incansable de tecnología, desarrollador full-stack y modder de Assetto Corsa por pasión. Desde gestionar servidores Ubuntu hasta crear aplicaciones web modernas y contenido 3D — trabajo en todo el espectro.
 
-## What I work with
+## Tecnologías
 
 <p align="center">
-  <b>Infrastructure & Systems</b><br>
+  <b>Infraestructura y Sistemas</b><br>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -40,7 +40,7 @@ Technology explorer, full-stack developer and Assetto Corsa modder by passion. F
 </p>
 
 <p align="center">
-  <b>Backend & APIs</b><br>
+  <b>Backend y APIs</b><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +48,7 @@ Technology explorer, full-stack developer and Assetto Corsa modder by passion. F
 </p>
 
 <p align="center">
-  <b>Frontend & UI</b><br>
+  <b>Frontend y UI</b><br>
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -57,7 +57,7 @@ Technology explorer, full-stack developer and Assetto Corsa modder by passion. F
 </p>
 
 <p align="center">
-  <b>3D & Modding</b><br>
+  <b>3D y Modding</b><br>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/3ds_Max-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -65,7 +65,7 @@ Technology explorer, full-stack developer and Assetto Corsa modder by passion. F
 
 ---
 
-## Featured projects
+## Proyectos destacados
 
 <table>
   <tr>
@@ -74,21 +74,21 @@ Technology explorer, full-stack developer and Assetto Corsa modder by passion. F
         <b>mail-relay</b>
       </a>
       <br/>
-      <sub>Multi-client SMTP relay for web contact forms</sub>
+      <sub>Relay SMTP multi-cliente para formularios web</sub>
     </td>
     <td align="center">
       <a href="https://github.com/x0-jonatanfp/OurSharedGallery">
         <b>OurSharedGallery</b>
       </a>
       <br/>
-      <sub>AI-powered Instagram community automator</sub>
+      <sub>Automatizador de Instagram con IA</sub>
     </td>
     <td align="center">
       <a href="https://github.com/x0-jonatanfp/f2b_private_bot">
         <b>F2B Private Bot</b>
       </a>
       <br/>
-      <sub>Telegram bot for Fail2ban monitoring</sub>
+      <sub>Bot de Telegram para monitorizar Fail2ban</sub>
     </td>
   </tr>
   <tr>
@@ -97,28 +97,28 @@ Technology explorer, full-stack developer and Assetto Corsa modder by passion. F
         <b>Tessera</b>
       </a>
       <br/>
-      <sub>Multi-agent virtual office simulation</sub>
+      <sub>Simulación de oficina virtual multiagente</sub>
     </td>
     <td align="center">
       <a href="https://github.com/x0-jonatanfp/gmcshocks.eu">
         <b>GMC Shocks</b>
       </a>
       <br/>
-      <sub>Corporate website — offroad shock absorbers</sub>
+      <sub>Web corporativa — amortiguadores offroad</sub>
     </td>
     <td align="center">
       <a href="https://github.com/x0-jonatanfp/bulletproof-shots">
         <b>Bulletproof Shots</b>
       </a>
       <br/>
-      <sub>FPV drone photography portfolio</sub>
+      <sub>Portfolio de fotografía con drones FPV</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Connect
+## Contacto
 
 [![Instagram](https://img.shields.io/badge/@jonatanfp_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonatanfp_)
 [![X / Twitter](https://img.shields.io/badge/@jonatanfp_-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jonatanfp_)
