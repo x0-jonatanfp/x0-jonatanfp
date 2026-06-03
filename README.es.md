@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/web-x0void.com-8B5CF6?style=flat-square&logo=vercel)](https://x0void.com)
 [![Email](https://img.shields.io/badge/email-jonatanfp@x0void.com-EA4335?style=flat-square&logo=gmail)](mailto:jonatanfp@x0void.com)
 
-**Desarrollador full-stack · Sysadmin · Modder**
+**Desarrollador full-stack · Sysadmin**
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-Explorador incansable de tecnología, desarrollador full-stack y modder de Assetto Corsa por pasión. Desde gestionar servidores Ubuntu hasta crear aplicaciones web modernas y contenido 3D — trabajo en todo el espectro.
+Explorador incansable de tecnología y desarrollador full-stack. Desde gestionar servidores Ubuntu hasta crear aplicaciones web modernas — trabajo en todo el espectro.
 
 ## Stack tecnológico
 
@@ -44,13 +44,6 @@ Explorador incansable de tecnología, desarrollador full-stack y modder de Asset
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>3D y Modding</b><br>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/3ds_Max-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
 ---
